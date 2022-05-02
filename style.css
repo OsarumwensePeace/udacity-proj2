@@ -1,0 +1,15 @@
+.container{
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+table{
+    border-spacing: 0;
+    margin: auto;
+}
